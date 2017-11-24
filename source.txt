@@ -1,0 +1,277 @@
+ when actual finish populated , setting ticket resolved actually finish workflow 
+tickets save workflows needs update . remove check node field createby
+multiple change records wonum share approver record
+can close problem record flag - is known error set true . the action close problem record missing workflow
+status change tickets content changed fields assignedto working save ticket workkflow .
+lean teamleads create incidents
+ when user attempts attach file ticket save record , error - required field url / file name blank . 
+when ticket created ticket using select action fields get copied .
+tried validate / activate escalation failed .
+productx displays 50 classifications . how increase number ?
+remove self registration productx login page
+when user deletes two blank approver rows change record . it displays error message
+approver creator change .
+incident closed 4 days resolution escalation run .
+ approver row functionality working properly , user deletes approver row change . 
+the change application display closed records default . the defaut query selects records historyflag=0 .
+how delete user - created application : simpleapp powerapp
+resultset portlet columns show
+creating message record bulletin board application user edit message id field . this lead issues user login .
+change technical business assessments performed change owner reporting use
+person groups assigned tickets customers customer access list
+archived cis listed ci list .
+[ qs 7 . 1 ] automatic status change inprog owner assigned ticket
+the closed date field filled changing status problem ticket closed .
+change manager present change child records .
+ user able change ticket status ( service request , incident , problem ) resolved resolvconf cancelled . 
+the user unable see service service groups advanced search ( search fields ) in sr / incident / problem application .
+need add actual finish field advance search change application . users able fetch manual report basis actual finish date .
+java core heap dump aix causes entire productx server hang
+productx data loader ( mdl ) getting mysql errors loading large files user created tables
+ escalation / cron running active , running defined time interval 
+   host name reachable   error productx installation 
+while installing qs 4 . 0 classification load templates give invalid binding error
+qs4 installation fails config db prerequisite asset package load
+qs4 : persongrpteam csv upload error
+productx xml file export application designer saving
+no notifications incidents resolved
+in clustered environment productx occasionally hang users able take action within application .
+when installing productx 6 . 2 . 2 update top qs3 db error
+due actuate problem change database mode 64 bit 32 bit .
+change sending group approval request emails
+productx poor application server performance
+ iface error , jms corrupt , messaging server start 
+ actuate error :   assert statement failed   
+ productx after period inactivity , get pop message says session time . please try 
+ when sr duplicated another sr , saved owner group , notification sent owner group new sr 
+asset data available system loading asset . csv file
+the saving transations sr incident slow .
+qs4 installation fails loading itdbasedata package
+team lead ( swo_lead ) escalation noficiations sent wrong person
+6 . 2 . 4 upgrade fails updating web . xml
+qs4 / ism : action toolbar missing migration manager presentation package deploy
+ ism 7 . x / qs 4 . 0 . x : when activity assigned , notification goes . 
+database error loading kpi . csv
+ the person . csv template comes qs contains primaryphone primaryemail columns . however , values loaded loading using itdperson service . 
+using app designer productx websphere cluster update servers
+productx application locks up mysql database apparent reason
+ with integration object itditem , items supposed get loaded classstructureid values . however , data load actually load classstructureid value , specs associated . 
+productx 6 . x browser caching working files
+backup script de_backupdb creates zero byte file sometimes .
+websphere / ihs install crashes power7 error logs
+ itdmaxuser service always results mail sent user , even flag emailpaswd set 0 . 
+people parent customer notified child customer tickets
+ new jaas module , configurations getting recognized was 
+ the external system itdsys1 unstable . if make change external system , like even editing description , changes saved . 
+ when itdinsave escalation fails , future processing itdinsave escalation work . 
+problem start center query . causes database spikes .
+when upgrade qs error message change manager group missing customer .
+itic fails quickstart installs due incorrect autokey value
+productx session times two hours
+maxuser csv wipes existing group memberships
+ qs installation : if different build chosen , old package contents still used 
+tsrm install failure tectia ssh aix
+to seperate was logs productx application logs different folders - logging
+users unable schedule change tasks
+ when adding attachment file russian ( cyrillic ) characters filename , access file . they good save db url looks good , bowser get error 404 
+ despite fact i member maxadmin , i unable create user records users application . 
+go to menu appear upgrade ( browser cache issue )
+ after upgrading qs6 , slahold status available 
+e - mails dropped ignored e - mail listener tickets created .
+ premature end file , instaling qs6 . 0 
+birt : export report fails / invalid date parameter message
+huge number 404 - not found messages access_log httpserver web browsers
+performance issue - save related incident took long
+ent runit . sh results many mails cron owner
+qs5 . 6 install resetting asset work order seed values
+increase load wftransaction table
+unable use itcam monitor ism performance .
+taddm discoverymanagementconsole start java 7 upgrade
+softlayer images servers sending e - mails using sendmail
+calendar lookups broken firefox 10 . x
+qs 5 . 6 - problem itdchgdoccounts view configdb
+ not able deploy package uat , despite deployed dev 
+configdb mysql error language pack
+pending workflow change gives database error
+new attribute available result sets
+productx error - change ticket status resolved
+productx - how create dataloader csvs special characters .
+ticket status memo visible history
+lookup created by group search gives customization error
+ while loading classspec csv qs4 installation , error received relationship pmcomsr exist classstructure business object 
+ post 3 . 5 upgrade , changes show approver records 
+itd escalation itdtaskseq set tasks readyimp tasks history refelect .
+issue changes multiple tickets ( having different orgid siteid ) change number . even one pending tickets locks approved tickets .
+the target date populated envision created mea
+incorrect dates instance outage
+the mysql errors views
+error : no applicable sla found record
+productx error - xyz valid productx value . you add new synonym values existing . . .
+productx error - the user selected use deleted user reused .
+e - audit tables ( a_ticket / a_workorder ) missing impact field ( itdimpact / itdchimpact )
+personid issue . database error trying add user / cust asset .
+   acutal finish   / resolution time incorrect . sometimes resolution time actually earlier actual start 
+actual finish date incorrect resolving ticket
+closed change tickets appearing list panel
+wopriority recorded a_workorder change tickets
+can compare 2 kpis . getting error : there measure points available current kpi . .
+error : reportname long query based report
+error message appears creating new query - reportname long
+incorrect sql statement esc*cl10 escalations .
+ticketspec . createby length issue
+unable add impact urgency matrix values screen . database error operating impacturgency unique id
+owner group owner required change status inprog change status
+ user account asked 2 customer asset types . these created visible creating new assets , however visible trying use asset types creating sla . 
+ when ticket ( sr , incident problem ) select action show similar tickets , displays tickets classification ticket . from list end user select ticket regardless customer . < ! - - rich text - - > 
+an sla target get calculated correctly instance supports user multiple timezone .
+ query myduetoday working expected , work orders due date showing 
+ query myoverdue working expected , empty even pending work orders existing 
+ query myopen working expected , work orders missing displayed myoverdue . 
+on more search fields label reads change type ; wochange . worktype field . whereas label field change application reads change category .
+system could fetch originator wfinstance database . value ofuser id exceeds maximium field length
+qs5 . 6 - change application advanced search incorrect change category . the values change category lookup different qs5 . 6 versus qs5 . 5
+ when change workgroup navigate away ticket click , yes , save changes , assigned person cleared 
+ every time sr move resolve status , reported member get notification 
+ duplicate incident function , field createdby new incident originator . 
+qs5 . 4 package fails alter table statement chartofaccounts glaccount
+error - description exceeds max field length message ; - loading building / locations ism integration framework
+customers able see activites workorders empty customer field
+unique index violation reconlinkrule reconlinkclause tables happens reconciliation rule added
+escalation fails change task status fail
+determining record within table inserted updated difficult given unique field tables contains date / time stamp . this especially difficult parent record point related records child tables .
+global tickets status inheritance clashes qs6 validations
+service time calculated incorrectly
+sla additional sla criteria apply creation
+qs6 new installation - mutiple database sql queries errors
+leadtime check work change application
+itdclosedate duplicated duplicated tickets
+differences actual finish date system date . the system returns earlier date actual finish date .
+authorization failure user . configure ldap 7 . 1 vmm
+login error related logintracking . database decimal conversion error
+phishing security vulnerability was 6 . 0 . 2 . 32 earlier
+login page error using short url
+the customer data restriction defined security group - data restriction tab enforced dialog / pop window
+access ch pend / auth working
+incanl chganl security groups authority create classifications
+productx url accessible users
+actuate support ssl keystore .
+ when performing certain functions productx , user may get error username exceeds maximum field length 
+productx attachments stored file system web server used display files . thus attachments secured .
+productx sp : configuring actuate reports multiple ldap sources
+ when trying create service order , error appears saying - can insert / update record without default site 
+fix end - user seeing restricted assets classifications search
+data restriction working related tickets selection
+users unable login ; create logintracking records ; maxsessionuid
+unable login productx blue pages password change
+ user see services , regardless service group 
+multiple languages work itdqs ldap authentication
+searching related ticket allows user see customer tickets .
+birt reports incorrect security : asset reports show assets even user authority
+the change application main workflow fails assessment step person assessment assigned user id greater 10
+unable create person record user member restricteduser
+security issue . email listener execute sql queries
+srestrictnum error securityrestrict xml
+non - admin security groups grant access view documents application .
+ user added productx / sccd , provides user id login page clicks submit , redirected logout page message   you successfully signed   
+attachments accessible without authentication required full url attachment entered browser address bar .
+migration manager - - how migrate security group ?
+ authenticated user able bypass security settings access modify data , access via gui . 
+bug qs2 workflow change status queued inprog tickets
+itdbook object indexes working
+slow performance opening start center
+in change application customers visible even supported user
+error warranty contract lease / rental contract filtering asset associated asset tab
+error save button clicked setting cancelled state ticket
+the error occurs list tab task manager application selecting select value option owner group more search fields
+item master - field gos id getting populated .
+sla specifies classification may run slowly saving ticket
+issues itdapprov escalation shared environment
+productx error - the value specified userid exceeds maximum field length
+new contract addition results database error - 811
+unable validate enable workflows linkageerror
+qs4 : incident reject workflow allows rejection without reason .
+classifications domain attributes work
+ in sr , incident problem , record search option working closed date 
+more 1 defaultvalue=1 synonymdomain drop 4
+unable set defaultgroup person
+unable activate ticket template
+field level controls working vmimage productx - 6
+ excessive error transactions continuous queue , leads productx crashing . 
+view service requests - invalid binding
+classificaiton id copied service request incident
+createsr self service ticket specifications / attributes / classifications table focus defective
+incorrect default value controls lead errors log file
+workflow assignment verify change ready implemented goes maxadmin user .
+error enabling eaudit yorn fields
+qs4 worklog logtype selection gives error - field short
+ in change application advance search , click worktype select , displays work type irrespective workclass . 
+close loop notification change closed using itil workflow .
+ when trying apply job plans updateci , auditci auditci2 change record , error displayed saying ; priority 0 value list 
+unable use cust specific classifications jobplan ticket template
+approvallog commlog changes show workorder records changes
+error message trying cancel work order ( wo ) created preventive maintenance ( pm ) module
+can modify domain pmchgjbttask
+service catalog : response plan actions applied - escalation . changeby
+qs5 see customer specific services change application
+the related record major incident created automatically ticket status new
+global search working : message - search index data updated .
+change application advanced search missing exception reason
+unable view customer specific classifications tktemplate activity
+itdsrsave escalation processes sr records draft status
+the flag itdinitwf set properly response plan involved
+itdcreatedbygroup field getting validated save workflow
+outage duration field tickets calculated
+custom solution reviewer able activate solution review status
+related incidents removed related records tab
+qs enterprise service allows load service groups customer association
+incident application - - list tab query using preentered value
+can search owner advanced search person to notify field
+email issues non english characters multiple spaces
+applets freezing hanging jre upgrade
+can move related ( followup ) incidents inprg
+ spcustomer users unable see use items various applications like ( sr , ir , pr ) ticket , template , job plan , asset , item etc 
+ there number closed incident tickets 2 sla applied , one incorrect associated different customer . 
+ when default itemset status set active ( useful bulk loading lots item records ) , new service offerings saved since required fields offering set . 
+ in ticketing , summary ( description ) associated long description fields audited . 
+taddm set addressspace snmp discovery anchor
+ when moving data taddm 7 . 2 . 1 fp3 ccmdb via itic , move data specific customer multi - customer environment using itic filtering . however , filtering specific customer , may see ipaddress instances belong customers moved ccmdb well . 
+soap ticket restricion issues .
+error trying set start status complete status work type
+some communication templates lot text invisible application
+edit mode functionality crashes marking ownerless incident major
+kpi graphs displaying aix
+save workflow icon greyed quickstart install
+change application status change memo visible history window
+ when auto - initiate workflow sr application , create service request application display confirmation dialogue submitting sr 
+white screen empty goto menu installing productx 6 . 2 . 2
+ unable create asset :   the value specified exceeds maximum field length .   
+classification popup screen blank
+kpi graph show start center .
+multiple duplicate records list tab changes application .
+no approve / reject workflow buttons appear change screen .
+ in v3 drop 2 , security restrictions make impossible see storerooms . 
+unable see closed change records list tab
+activity owner group assigned to fields grayed drop 4 .
+ the list panel shows all tickets displaying list following applications / modules : service request , incident , problem , change , work orders . 
+asset roles able see certain stratcenter portlets
+ even main change tab locked approved state , certain attributes editable plans tab 
+log entry details incorrect view service requests
+the display fields phone numbers tickets / workorders wide enough display 10 - 12 characters .
+classification popup change application empty load interim classifications
+created by group autopopulated ticket application .
+customer available view / manage queries
+ in ticket inprog status , assigned value cleared , status go back queued . 
+ qs6 when change created tickets , detail description change presentation shows extra xml tags 
+customer editible view / manage query screen
+asset list receipts application shows wrong packing slips
+ classification path , class description populated incident created mea 
+qs5 . 3 . 2 : in workorder application able select worktype
+formatting communication templates
+service group lookup ticket template show record
+inconsistent results display sla hold panel incidents .
+improper control pop window creating new change
+queued status allowed null ownergroup
+all tktemplate visible apply ticket template dialog
+not able choose configurartion item problem application
+the user unable choose scripts offering specifications presentation tab use validation scripts presentation table
+ the target dates section incident problem applications hidden , even though sla applied contact commitment type . 
